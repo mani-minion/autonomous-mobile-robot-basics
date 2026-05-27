@@ -26,7 +26,8 @@ Core algorithms and implementations for **Autonomous Mobile Robot (AMR)** naviga
 Finds the shortest collision-free path on a grid map from start to goal using a heuristic search (Manhattan/Euclidean distance).
 
 ### 2. Particle Filter (MCL)
-Monte Carlo Localization — represents robot position as a set of weighted particles. Updates weights using sensor observations. Core of probabilistic robotics (Bonn's research legacy).
+Monte Carlo Localization — represents robot position as a set of weighted particles. Updates weights using sensor observations. Core of probabilistic robotics.
+
 ---
 
 ## Tools & Requirements
